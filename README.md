@@ -1,0 +1,2 @@
+# CurricIt
+generate it curricul
